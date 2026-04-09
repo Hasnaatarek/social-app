@@ -1,7 +1,7 @@
 import { Outlet, Navigate } from "react-router-dom";
 import UserDataCard from "../../components/Home/UserDataCard";
 import FollowSuggest from "../../components/Home/FollowSuggest";
-import Navbar from "../../components/NavBar/NavBar";
+import Navbar from "../../components/Navbar/NavBar";
 
 export default function MainLayout() {
   const token = localStorage.getItem("userToken");
