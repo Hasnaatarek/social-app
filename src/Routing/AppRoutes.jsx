@@ -13,7 +13,7 @@ import AuthLayOut from "../LayOuts/AuthLayOut/AuthLayOut";
 import Login from "../pages/Authntcation/Login/Login";
 import Register from "../pages/Authntcation/Register/Register";
 import Settings from "../pages/Settings/Settings";
-import Navbar from "../components/Navbar/Navbar";
+import Navbar from "../components/Navbar";
 import MyPosts from "../pages/MyPosts/MyPosts";
 import Comunity from "../pages/ComunityPosts/Comunity";
 import PostDetails from "../pages/PostDetails/PostDetails";
